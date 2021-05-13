@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/redeem_hoa/precache-manifest.1f0ad58ea6b00e25e6e2c25972b7c2b5.js"
+  "/redeem_hoa/precache-manifest.00926368b37c787e23a3bd7bed547c81.js"
 );
 
 self.addEventListener('message', (event) => {
