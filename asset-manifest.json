@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/redeem_hoa/static/css/main.c8326998.chunk.css",
-    "main.js": "/redeem_hoa/static/js/main.996f6430.chunk.js",
-    "main.js.map": "/redeem_hoa/static/js/main.996f6430.chunk.js.map",
+    "main.js": "/redeem_hoa/static/js/main.99553032.chunk.js",
+    "main.js.map": "/redeem_hoa/static/js/main.99553032.chunk.js.map",
     "runtime-main.js": "/redeem_hoa/static/js/runtime-main.4117af50.js",
     "runtime-main.js.map": "/redeem_hoa/static/js/runtime-main.4117af50.js.map",
     "static/js/2.6c6a24be.chunk.js": "/redeem_hoa/static/js/2.6c6a24be.chunk.js",
     "static/js/2.6c6a24be.chunk.js.map": "/redeem_hoa/static/js/2.6c6a24be.chunk.js.map",
     "index.html": "/redeem_hoa/index.html",
-    "precache-manifest.fd375db554812fb8b317d75ca6a152a1.js": "/redeem_hoa/precache-manifest.fd375db554812fb8b317d75ca6a152a1.js",
+    "precache-manifest.0879f7cc41b668769f643af83a667a04.js": "/redeem_hoa/precache-manifest.0879f7cc41b668769f643af83a667a04.js",
     "service-worker.js": "/redeem_hoa/service-worker.js",
     "static/css/main.c8326998.chunk.css.map": "/redeem_hoa/static/css/main.c8326998.chunk.css.map",
     "static/js/2.6c6a24be.chunk.js.LICENSE.txt": "/redeem_hoa/static/js/2.6c6a24be.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4117af50.js",
     "static/js/2.6c6a24be.chunk.js",
     "static/css/main.c8326998.chunk.css",
-    "static/js/main.996f6430.chunk.js"
+    "static/js/main.99553032.chunk.js"
   ]
 }
